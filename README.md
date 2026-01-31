@@ -1,4 +1,4 @@
-# Data Science Dashboard
+# California Housing dataset Dashboard
 
 California Housing dataseti üzərində analiz dashboard-u.
 
